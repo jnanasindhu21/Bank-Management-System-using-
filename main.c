@@ -8,6 +8,10 @@ l hoibib oiu ]
 [[ 
     j'i.
 ]
+// hgvh ksdhjfbgjksdfh
+;oilvfu foiuho u
+p] u]y[u
+pu]upi hup]
 struct customer
 {
     char nm[30];
