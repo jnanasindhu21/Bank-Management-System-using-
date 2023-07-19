@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <time.h>
-// changes
+// changes ksdhjfbgjksdfh
 struct customer
 {
     char nm[30];
