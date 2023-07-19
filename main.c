@@ -2,7 +2,12 @@
 #include <stdlib.h>
 #include <string.h>
 #include <time.h>
-// hgvh ksdhjfbgjksdfh
+// hgvh ksdhjfbgjksdfh turcuy ciykjhv jgvi
+l hoibib oiu ]
+
+[[ 
+    j'i.
+]
 struct customer
 {
     char nm[30];
